@@ -98,7 +98,8 @@ attribute?</em></summary>
 
 ## Setting and Getting Attributes
 
-Many programming languages opt to protect their objects' attributes and methods
+Many programming languages opt to protect their objects' attributes and m
+ethods
 (members). They accomplish this by making the distinction between _public_,
 _private_, and _protected_. These terms are good to know, as you will almost
 certainly encounter them in your software career:
